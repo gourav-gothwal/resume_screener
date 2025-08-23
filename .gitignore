@@ -39,3 +39,8 @@ ENV/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore model files and directories
+resume_model/
+resume_model_best/
+*.safetensors
